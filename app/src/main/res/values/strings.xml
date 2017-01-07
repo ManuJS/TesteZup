@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">TesteZup</string>
     <string name="icone_do_filme">icone-do-filme</string>
+    <string name="search_hint">nome do filme</string>
+    <string name="refresh">Atualizar</string>
+
+    <string name="action_settings">Favoritos</string>
+    <string name="erro_busca">Opa! Não achou seu filme? Talvez procurar pelo nome dele em inglês ajude e também veja se não há espaços no final do nome. </string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add_to_favorites">filme adicionado aos favoritos</string>
+    <string name="favorit_activity">Favoritos</string>
+    <string name="filme_ja_existe">Esse filme já foi salvo</string>
+    <string name="removed_from_favorites">File removido</string>
 
 </resources>
